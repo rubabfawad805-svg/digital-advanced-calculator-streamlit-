@@ -1,2 +1,2 @@
-# digital-advanced-calculator-streamlit-
+# Digital-Advanced-Calculator-Streamlit-
 digital advanced calculator
